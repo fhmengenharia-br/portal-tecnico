@@ -1,0 +1,155 @@
+:root {
+  --text: #1f2933;
+  --muted: #52606d;
+  --background: #ffffff;
+  --surface: #f3f5f7;
+  --primary: #17324d;
+  --primary-hover: #244b6f;
+  --border: #d9e2ec;
+  --max-width: 1120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+.container {
+  width: min(100% - 32px, var(--max-width));
+  margin-inline: auto;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--background);
+}
+
+.header-content {
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.brand {
+  color: var(--primary);
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.main-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.main-menu a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.main-menu a:hover,
+.main-menu a:focus {
+  text-decoration: underline;
+}
+
+.hero {
+  padding: 96px 0;
+  background: var(--surface);
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--primary);
+  font-weight: 700;
+}
+
+h1 {
+  max-width: 850px;
+  margin: 0;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+}
+
+.hero-text {
+  max-width: 760px;
+  margin: 24px 0 32px;
+  color: var(--muted);
+  font-size: 1.2rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 14px 22px;
+  border-radius: 4px;
+  background: var(--primary);
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover,
+.button:focus {
+  background: var(--primary-hover);
+}
+
+.intro {
+  padding: 72px 0;
+}
+
+.intro h2 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.intro p {
+  max-width: 760px;
+  color: var(--muted);
+}
+
+.site-footer {
+  padding: 32px 0;
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.site-footer p {
+  margin: 4px 0;
+}
+
+@media (max-width: 760px) {
+  .header-content {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px 0;
+  }
+
+  .main-menu {
+    gap: 12px 20px;
+  }
+
+  .hero {
+    padding: 64px 0;
+  }
+}
