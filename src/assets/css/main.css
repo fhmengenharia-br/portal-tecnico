@@ -153,3 +153,9 @@ h1 {
     padding: 64px 0;
   }
 }
+
+.intro-highlight {
+  margin-top: 40px;
+  text-align: center;
+  font-weight: 600;
+}

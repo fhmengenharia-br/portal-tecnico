@@ -22,17 +22,30 @@ description: Conhecimento técnico sobre manutenção predial, inspeção predia
 
 <section class="intro">
   <div class="container">
-    <h2>Conhecimento técnico para decisões responsáveis</h2>
+    <h2>Por que existe este Portal?</h2>
 
     <p>
-      A FHM Engenharia atua desde 2019 com consultoria técnica, manutenção
-      predial, inspeções, perícias, gestão de reformas e análise de patologias
-      das construções.
+      A FHM Engenharia acredita que o conhecimento técnico deve estar acessível
+      a síndicos, administradores, condôminos e profissionais que desejam
+      compreender melhor a manutenção e a conservação das edificações.
     </p>
 
     <p>
-      Este portal está sendo desenvolvido para transformar experiência prática
-      em informação técnica clara, organizada e permanentemente acessível.
+      Este portal reúne artigos, orientações técnicas e conteúdos produzidos a
+      partir da experiência prática em inspeções prediais, patologias das
+      construções, manutenção predial e acompanhamento de obras.
+    </p>
+
+    <p>
+      Nosso objetivo é contribuir para decisões mais seguras, reduzir
+      intervenções emergenciais e incentivar uma cultura de manutenção
+      preventiva baseada em critérios técnicos e nas boas práticas da
+      engenharia.
+    </p>
+
+    <p class="intro-highlight">
+      Preservar uma edificação começa muito antes da necessidade de uma grande
+      reforma.
     </p>
   </div>
 </section>
