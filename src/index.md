@@ -49,3 +49,44 @@ description: Conhecimento técnico sobre manutenção predial, inspeção predia
     </p>
   </div>
 </section>
+
+<div class="approach-grid">
+
+  <article class="approach-card">
+    <h3>Diagnosticar antes de intervir</h3>
+    <p>
+      Toda solução deve partir da compreensão das causas do problema,
+      evitando intervenções baseadas apenas em seus sintomas.
+    </p>
+  </article>
+
+  <article class="approach-card">
+    <h3>Decidir com fundamento técnico</h3>
+    <p>
+      As recomendações devem estar fundamentadas em normas técnicas,
+      experiência prática e boas práticas da engenharia, proporcionando
+      decisões mais seguras e consistentes.
+    </p>
+  </article>
+
+  <article class="approach-card">
+    <h3>Preservar o patrimônio</h3>
+    <p>
+      A manutenção preventiva, o planejamento e a intervenção no momento
+      adequado são as formas mais eficientes de aumentar a vida útil das
+      edificações e reduzir custos futuros.
+    </p>
+  </article>
+
+  <article class="approach-card">
+    <h3>Compartilhar conhecimento</h3>
+    <p>
+      Acreditamos que o conhecimento técnico deve estar acessível a quem
+      administra, conserva e utiliza as edificações. Compartilhar
+      conhecimento também é uma forma de preservar o patrimônio.
+    </p>
+  </article>
+
+</div>
+</section>
+
