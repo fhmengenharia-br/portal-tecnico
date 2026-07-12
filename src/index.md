@@ -6,14 +6,12 @@ description: Conhecimento técnico sobre manutenção predial, inspeção predia
 
 <section class="hero">
   <div class="container">
-    <p class="eyebrow">Portal Técnico da FHM Engenharia</p>
+    <p class="eyebrow">FHM Engenharia</p>
 
-    <h1>Engenharia aplicada à preservação do patrimônio imobiliário</h1>
+    <h1>Conhecimento técnico para preservar o patrimônio do seu condomínio</h1>
 
     <p class="hero-text">
-      Conteúdo técnico para síndicos, administradoras e gestores que precisam
-      tomar decisões seguras sobre manutenção, inspeções, reformas e patologias
-      das edificações.
+      A FHM Engenharia compartilha conhecimento técnico e presta consultoria especializada para auxiliar síndicos, administradoras e proprietários a compreender os problemas das edificações e tomar decisões mais seguras sobre manutenção, inspeções, reformas e preservação do patrimônio.
     </p>
 
     <a class="button" href="/biblioteca-tecnica/">
