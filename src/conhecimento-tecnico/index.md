@@ -30,12 +30,27 @@ permalink: /conhecimento-tecnico/
       <h2>Artigos publicados</h2>
 
       <article class="article-summary">
-        <h3>Pastilhas se desprendendo da sacada: o perigo que cai do céu</h3>
+        <h3>
+          <a href="/conhecimento-tecnico/pastilhas-se-desprendendo-da-sacada/">
+            Pastilhas se desprendendo da sacada: o perigo que cai do céu
+          </a>
+        </h3>
+
         <p>
           Entenda por que o desprendimento de revestimentos cerâmicos representa
           um risco à segurança e quais medidas podem prevenir acidentes.
         </p>
+
+        <p>
+          <a href="/conhecimento-tecnico/pastilhas-se-desprendendo-da-sacada/">
+            Ler artigo →
+          </a>
+        </p>
       </article>
+    </section>
+
+    <section class="article-list">
+      <h2>Próximas publicações</h2>
 
       <article class="article-summary">
         <h3>Corrosão por maresia</h3>
@@ -62,7 +77,7 @@ permalink: /conhecimento-tecnico/
       </article>
 
       <article class="article-summary">
-        <h3>Infiltração na parede do morador: de quem é a culpa?</h3>
+        <h3>Infiltração na parede do morador: de quem é a responsabilidade?</h3>
         <p>
           Entenda como identificar a origem das infiltrações e quais
           responsabilidades normalmente estão envolvidas.
