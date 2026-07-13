@@ -334,3 +334,46 @@ h1 {
     font-size: 1rem;
   }
 }
+
+/* =========================================================
+   FICHA TÉCNICA DOS ARTIGOS
+   ========================================================= */
+
+.article-page table {
+  width: 100%;
+  margin: 24px 0 40px;
+  border-collapse: collapse;
+  font-size: 0.98rem;
+}
+
+.article-page th,
+.article-page td {
+  padding: 12px 16px;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-page th {
+  background: #f4f6f8;
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.article-page th:first-child,
+.article-page td:first-child {
+  width: 35%;
+  font-weight: 600;
+}
+
+@media (max-width: 760px) {
+  .article-page th,
+  .article-page td {
+    padding: 10px 12px;
+  }
+
+  .article-page th:first-child,
+  .article-page td:first-child {
+    width: 42%;
+  }
+}
