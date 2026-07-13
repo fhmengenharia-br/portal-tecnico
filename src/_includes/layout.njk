@@ -15,7 +15,7 @@
 
       <nav aria-label="Navegação principal">
         <ul class="main-menu">
-            <li><a href="/biblioteca-tecnica/">Biblioteca Técnica</a></li>
+            <li><a href="/conhecimento-tecnico/">Conhecimento Técnico</a></li>
             <li><a href="/areas-de-atuacao/">Áreas de Atuação</a></li>
             <li><a href="/sobre/">Sobre</a></li>
             <li><a href="/contato/">Contato</a></li>
@@ -24,9 +24,9 @@
     </div>
   </header>
 
-  <main>
-    {{ content | safe }}
-  </main>
+<main class="{{ pageClass | default('') }}">
+  {{ content | safe }}
+</main>
 
   <footer class="site-footer">
     <div class="container">

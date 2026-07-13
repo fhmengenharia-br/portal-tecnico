@@ -14,7 +14,7 @@ description: Conhecimento técnico sobre manutenção predial, inspeção predia
       A FHM Engenharia compartilha conhecimento técnico e presta consultoria especializada para auxiliar síndicos, administradoras e proprietários a compreender os problemas das edificações e tomar decisões mais seguras sobre manutenção, inspeções, reformas e preservação do patrimônio.
     </p>
 
-    <a class="button" href="/biblioteca-tecnica/">
+    <a class="button" href="/conhecimento-tecnico/">
       Acessar a Biblioteca Técnica
     </a>
   </div>
