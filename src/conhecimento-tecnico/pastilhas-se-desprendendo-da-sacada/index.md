@@ -21,9 +21,9 @@ tags:
 
 O desprendimento de pastilhas cerâmicas em fachadas representa um risco à segurança das pessoas e um importante sinal de que o revestimento da edificação necessita de avaliação técnica. Neste artigo, explicamos as principais causas desse problema, os riscos envolvidos e as medidas preventivas recomendadas para preservar a segurança e a durabilidade da fachada.
 
-> **Imagem principal**
->
-> *(Inserir fotografia de fachada com desprendimento de pastilhas ou detalhe do problema.)*
+![Pastilhas cerâmicas desprendendo-se da fachada de uma sacada, evidenciando risco de queda e necessidade de inspeção predial.](/assets/images/artigos/art-001-pastilhas-sacada.jpg)
+
+*Desprendimento de pastilhas cerâmicas em fachada. A perda de aderência do revestimento representa risco à segurança e exige avaliação técnica.*
 
 ---
 

@@ -274,12 +274,12 @@ h1 {
   max-width: none;
   margin-bottom: 12px;
   color: var(--primary);
-  font-size: clamp(2.2rem, 5vw, 2.7rem);
+  font-size: clamp(2rem, 4vw, 2.35rem);
   line-height: 1.12;
 }
 
 .article-page h2 {
-  margin-top: 48px;
+  margin-top: 34px;
   margin-bottom: 16px;
   color: var(--primary);
   font-size: 1.7rem;
@@ -305,7 +305,7 @@ h1 {
 }
 
 .article-page hr {
-  margin-block: 44px;
+  margin-block: 28px;
   border: 0;
   border-top: 1px solid var(--border);
 }
@@ -376,4 +376,79 @@ h1 {
   .article-page td:first-child {
     width: 42%;
   }
+}
+
+
+/* =========================================================
+   REFINAMENTOS VISUAIS - ARTIGOS
+   ========================================================= */
+
+.article-page h1 + h2 {
+  margin-top: 6px;
+  margin-bottom: 28px;
+  color: #4b5d6b;
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
+
+.article-page blockquote {
+  margin: 28px 0;
+  padding: 16px 22px;
+  border-left: 4px solid var(--primary);
+  background: #f7f9fb;
+  color: var(--text);
+  font-style: normal;
+}
+
+.article-page blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+/* =========================================================
+   ART-001 — AJUSTES FINAIS
+   ========================================================= */
+
+.article-page h1{
+  font-size: clamp(2.2rem,4.4vw,2.55rem);
+  margin-bottom:10px;
+}
+
+.article-page h1 + h2{
+  font-size:1.22rem;
+  margin-top:4px;
+  margin-bottom:20px;
+}
+
+.article-page h2{
+  margin-top:28px;
+  margin-bottom:12px;
+}
+
+.article-page p{
+  margin-bottom:16px;
+}
+
+.article-page img{
+  display:block;
+  width:100%;
+  max-width: 100%;
+  margin:28px auto 8px;
+  border-radius:6px;
+  height:auto;
+}
+
+.article-page img + em{
+  display:block;
+  max-width: 100%;
+  margin:0 auto 26px;
+  text-align:center;
+  font-size:.92rem;
+  color:var(--muted);
+}
+
+.article-page hr{
+  margin-block:22px;
 }
